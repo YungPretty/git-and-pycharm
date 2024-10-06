@@ -7,3 +7,4 @@ print('Python')
 
 duble = input()
 print(duble)
+
